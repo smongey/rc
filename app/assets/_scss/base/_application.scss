@@ -22,10 +22,412 @@
  * ---------------------------------------------------------------------------
  */
 
-.header-primary {}
+* { -webkit-font-smoothing: antialiased; }
 
-.nav-primary {}
+*, *:before, *:after	{
+	-webkit-box-sizing: border-box; 
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
 
-.content-primary {}
+@import url("//fnt.webink.com/wfs/webink.css/?project=F0021766-E526-40BC-87A0-6D09121D3B4D&fonts=506ACF7C-18D4-DE14-F3DA-624DC75F1A7A:f=Typewriter,3B191A94-6A54-296C-54EE-2BF84C7A049C:f=TypewriterLight");
 
-.footer-primary {}
+//Typewriter  &  TypewriterLight
+
+body {
+	background: $biscuit;
+	overflow-y: scroll;
+}
+
+#home {
+	@include outer-container;
+	img { 
+		max-width: 100%;
+	}
+
+}
+
+#projects {
+	@include outer-container;
+	.look, .listen {
+		@include span-columns(6);
+		@include media($tablet) {
+			@include span-columns(10);
+			@include shift(1);
+			margin-bottom: em(30);
+		}
+	}
+}
+
+@mixin omega-reset($nth) {
+  &:nth-child(#{$nth}) { margin-right: flex-gutter(); }
+  &:nth-child(#{$nth}+1) { clear: none }
+}
+
+#look {
+	@include outer-container;
+	ul {
+		@include span-columns(9);
+		@include shift(3);
+		@include media($tablet) {
+			@include span-columns(12);
+			@include shift(0);
+			padding: 0 em(20);
+		}
+
+	}
+	li {
+		@include span-columns(3 of 9);
+		@include omega(3n);
+		margin-bottom: em(25);
+		@include media($tablet) {
+			@include omega-reset(3n);
+			@include span-columns(6 of 12);
+			@include omega(2n);
+		}
+		@include media($phone) {
+			@include span-columns(12);
+			padding: 0 em(30);
+		}
+		a {
+			color:black;
+		}
+		p {
+			font-size: em(14) !important;
+			font-weight: normal;
+		}
+	}
+
+	#camera {
+		@include span-columns(3);
+		margin-top: em(-50);
+		@include media($tablet) {
+			display: none;
+		}
+	}
+
+}
+
+
+#listen {
+	@include outer-container;
+
+	#composition, #other {
+		padding: 0 0 em(40) 0;
+		@include span-columns(6);
+		@include shift(3);
+		@include media($phone) {
+			@include span-columns(10);
+			@include shift(1);
+		}
+		li {
+			position: relative;
+			border-top: 4px solid black;
+			padding: em(5) 0 0 0;
+		}
+		
+		.title {
+			border:none;
+			h2 {
+				text-align: center;
+				font-family: 'Garamond', Times, serif;
+				font-style: italic;
+				font-size: em(26);
+				padding-bottom: em(20); 
+			}
+			
+		}
+
+		a.open {
+			position: absolute;
+			top:0;
+			left:0;
+			text-align: center;
+			display: block;
+			width:em(20); 
+			height:em(20);
+			margin-left: em(-25);
+			margin-top: em(8);
+		}
+		audio {
+			width: 100%;
+		}
+
+		.credits {
+			display: none;
+		}
+
+	}
+
+	#speaker {
+		@include span-columns(2);
+		@include media($phone) {
+			display: none;
+		}
+	}
+
+	#volume {
+		@include span-columns(2);
+		@include media($phone) {
+			display: none;
+		}	
+	}
+
+	#headphones {
+		@include outer-container();
+		div {
+			@include span-columns(12);
+		}
+		img {
+			@include span-columns(3);
+			margin-top: em(-50);
+		}
+		@include media($phone) {
+			display: none;
+		}
+	}
+}
+
+#single {
+	@include span-columns(9);
+	@include shift(3);
+	@include media($tablet) {
+		
+		@include span-columns(12);
+		@include shift(0);
+		padding: 0 em(20);
+	}
+	@include media($phone) {
+		@include span-columns(12);
+		@include shift(0);
+	}
+	video {
+		width:600px;
+		max-width: 100%;
+	}
+
+	a#toggle {
+		@include span-columns(12);
+		font:em(14)/em(22) 'Helvetica-Neue', Helvetica, Arial, sans-serif;
+		font-weight: bold;
+		color: black;
+		position: relative;
+		display: inline-block;
+		width: inherit;
+		span {
+			color:$red;
+		}
+	}
+	#credits {
+		@include span-columns(5);
+		font:em(14)/em(22) 'Helvetica-Neue', Helvetica, Arial, sans-serif;
+		font-weight: bold;
+		padding: em(20) 0 0 0;
+		@include media($tablet) {
+			@include span-columns(12);
+		}
+	}
+}
+
+
+#contact {
+	@include outer-container;
+	.info {
+		@include span-columns(8);
+		@include shift(4);
+		padding:em(100) 0 em(150) 0;
+		@include media($phone) {
+			@include span-columns(12);
+			@include shift(0);
+			padding: em(20) 0 em(40);
+		}
+		a {
+			display: inline-block;
+			width:auto;
+			font-size: em(34);
+			line-height: em(28);
+			font-weight: bold;
+			color:black; 
+			border-top:4px solid black;
+			border-bottom: 4px solid black;
+			white-space: nowrap;
+			@include media($phone) {
+				font-size: em(26);
+				padding: em(10);
+				text-align: center;
+				width: 100%;
+			}
+			&:last-child {
+				font-size: em(39);
+				line-height: em(25);
+				border-top: none;
+				@include media($phone) {
+					font-size: em(26);
+				}
+			}
+		}
+	}
+
+	.thanks {
+		@include span-columns(12);
+		
+		div {
+			&:first-child {
+				text-align: right;
+				font-family: 'Garamond', Times, serif;
+				font-style: italic;
+				font-size: em(26);
+				padding-right: em(20);
+				@include shift(1);
+				@include media($tablet) {
+					@include shift(0);
+				}
+				@include media($phone) {
+					padding: 0;
+					text-align: center;
+				}
+			}
+			@include span-columns(3);
+			@include media($tablet) {
+				@include span-columns(4);
+				font-size: em(13);
+			}
+			@include media($phone) {
+				@include span-columns(12);
+				text-align: center;
+			}
+		}
+
+		ul li {
+			font:em(14)/em(22) 'Helvetica-Neue', Helvetica, Arial, sans-serif;
+			font-weight: bold;
+			white-space: nowrap;
+			&:first-child {
+				color:$red;
+
+			}
+		}
+	}
+}
+
+#about {
+	@include outer-container;
+	padding: em(50) 0 0 0;
+	@include media($phone) {
+		padding: 0;
+	}
+	.speaker {
+		@include span-columns(7);
+		@include media($tablet) {
+			@include span-columns(10);
+			@include shift(1);
+			padding-bottom: em(60);
+		}
+		@include media($phone) {
+			@include span-columns(12);
+			@include shift(0);
+			padding-bottom: em(20);
+		}
+	}
+	.info {
+		@include span-columns(5);
+		padding: 0 em(80) 0 em(20);
+		@include media($s-desktop) {
+			padding: 0;
+		}
+		@include media($tablet) {
+			@include span-columns(8);
+			@include shift(2);
+			padding-bottom: em(60);
+		}
+		@include media($phone) {
+			@include span-columns(12);
+			@include shift(0);
+			padding: 0 em(30) em(60) em(30);
+		}
+		p {
+			font:em(14)/em(22) 'Helvetica-Neue', Helvetica, Arial, sans-serif;
+			font-weight: bold;
+		}
+
+	}
+}
+
+#news {
+	@include outer-container;
+	padding: em(50) 0 0 0;
+	@include media($phone) {
+		padding: 0;
+	}
+	.keyboard {
+		@include span-columns(7);
+		@include media($tablet) {
+			@include span-columns(10);
+			@include shift(1);
+			padding-bottom: em(20);
+		}
+		@include media($phone) {
+			@include span-columns(12);
+			@include shift(0);
+		}
+	}
+
+	.items {
+		@include span-columns(5);
+		background: white;
+		padding: em(25);
+		position: relative;
+		margin-bottom: em(40);
+		@include media($tablet) {
+			@include span-columns(8);
+			@include shift(2);
+			margin-bottom: em(60);
+		}
+		@include media($phone) {
+			@include span-columns(12);
+			@include shift(0);
+			margin-bottom: 0;
+		}
+		h2 {
+			text-align: center;
+			font-family: 'Garamond', Times, serif;
+			font-style: italic;
+			font-size: em(26);
+			padding-bottom: em(20);
+		}
+
+		li {
+			font-family: 'Typewriter', monospaced;
+			font-size: em(15);
+			line-height: em(24);
+			margin-bottom: em(30);
+			a {
+				color: $red;
+			}
+		}
+
+		a.old, a.new {
+			font-family: 'Typewriter', monospaced;
+			color:black;
+			text-transform: uppercase;
+			padding: 0 em(10) 0 0;
+			font-size: em(14);
+			&.active {
+				color:$red;
+			}
+		}
+
+		&::after {
+			display: block;
+			content: ' ';
+			position: absolute;
+			bottom:0;
+			right:0;
+			width:em(32);
+			height:em(33);
+			background:url('../img/news-corner.jpg');
+			
+		}
+
+	}
+}

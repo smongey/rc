@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>{{ page.title }}</title>
+    <title>Rori Coleman Composer</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -20,19 +20,25 @@
     <!--[if lt IE 7]>
       <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
     <![endif]-->
-
-    <header id="header-primary" class="header-primary">
+    <header>
+      <nav>
+        <div class="logo">
+          <a href="/">
+            <h1>Rori Coleman Composer</h1>
+          </a>
+        </div>
+        <ul>
+          <li><a {% if page.title == "Projects" %}class="active"{% elsif page.title == "Look" %}class="active"{% elsif page.title == "Single" %}class="active"{% elsif page.title == "Listen" %}class="active"{% endif %} href="/projects/">Projects</a></li>
+          <li><a {% if page.title == "About" %}class="active"{% endif %} href="/about/">About</a></li>
+          <li><a {% if page.title == "Contact" %}class="active"{% endif %} href="/contact/">Contact</a></li>
+          <li><a {% if page.title == "News" %}class="active"{% endif %}href="/news/">News</a></li>
+        </ul>
+      </nav>
     </header>
 
-    <nav id="nav-primary" class="nav-primary">
-    </nav>
-
-    <section id="content-primary" class="content-primary">
+    <div id="wrap">
       {{ content }}
-    </section>
-
-    <footer id="footer-primary" class="footer-primary">
-    </footer>
+    </div>
 
     {% include scripts.html %}
     {% include google-analytics.html %}

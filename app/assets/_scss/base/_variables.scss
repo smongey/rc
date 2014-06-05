@@ -22,7 +22,9 @@ $light-gray: #DDD;
 $light-red: #FBE3E4;
 $light-yellow: #FFF6BF;
 $light-green: #E6EFC2;
-$biscuit: #faf5ee;
+// Rori Coleman Project Variables
+$biscuit: #f9f6ef; //#F4F1EA;
+$red: #B81B20;
 
 // Body Color
 $base-body-color: $biscuit;
@@ -42,3 +44,13 @@ $base-border-color: $light-gray;
 $error-color: $light-red;
 $notice-color: $light-yellow;
 $success-color: $light-green;
+
+
+// Media Queries
+$l-desktop: max-width 1300px;
+$m-desktop: max-width 1180px;
+$s-desktop: max-width 1000px;
+$tablet: max-width 769px;
+$phone: max-width 480px;
+
+

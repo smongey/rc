@@ -1,0 +1,56 @@
+// Nav
+
+nav { 
+	@include outer-container;
+	padding: em(50) em(20);
+	.logo {
+		@include span-columns(6);
+		display: block;
+		text-indent: -9999px;
+		a {
+			width:em(155);
+			height:em(100);
+			text-indent: -9999px;
+			display: block;
+			background-image: url('../img/logo.png');
+			background-image: url('../img/logo.svg'), none;
+			background-repeat: none;
+		}
+	}
+
+	ul {
+		@include span-columns(6);
+		text-align: right;
+		white-space: nowrap;
+		@include media($tablet) {
+			text-align: left;
+			white-space: wrap;
+			padding-left: em(20)
+		}
+	}
+
+	li {
+		display: inline-block;
+		a {
+			text-transform: uppercase;
+			color: black;
+			padding: em(2);
+			margin: 0 em(20);
+			font-family: 'Typewriter', monospaced;
+			@include media($s-desktop) {
+				margin: 0 em(10);
+			}
+			&:hover {
+				color: $red;
+			}
+			&.active {
+				color: $red;
+				border-bottom: em(2) solid $red;
+			}
+		}
+		@include media($tablet) {
+			display: block;
+		}
+	}
+
+}
