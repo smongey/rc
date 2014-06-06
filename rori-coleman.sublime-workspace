@@ -1,0 +1,1147 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"ge",
+				"getCurrent"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"a",
+				"authUser"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"tex",
+				"text-indent"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"la",
+				"lastName"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"border-ri",
+				"border-right"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"logo",
+				"logoHeight"
+			],
+			[
+				"top",
+				"top"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"backgr",
+				"background-position"
+			],
+			[
+				"scroll",
+				"scrollTop"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/sean/Dropbox/sites/rc/app/_layouts/default.html",
+			"settings":
+			{
+				"buffer_size": 1270,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/sean/Dropbox/sites/rc/app/index.html",
+			"settings":
+			{
+				"buffer_size": 137,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/sean/Dropbox/sites/rc/app/assets/_scss/base/_variables.scss",
+			"settings":
+			{
+				"buffer_size": 1025,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/sean/Dropbox/sites/rc/app/assets/_scss/base/_grid-settings.scss",
+			"settings":
+			{
+				"buffer_size": 456,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/sean/Dropbox/sites/rc/app/assets/_scss/screen.scss",
+			"settings":
+			{
+				"buffer_size": 1065,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/assets/_scss/component/_nav.scss",
+			"settings":
+			{
+				"buffer_size": 37,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"open",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"ope",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"plac",
+				"Placehold.it: Insert Image"
+			],
+			[
+				"place",
+				"Placehold.it: Insert Image"
+			],
+			[
+				"tasks",
+				"Tasks: New document"
+			]
+		],
+		"width": 457.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/sean/Dropbox/sites/rc/app/assets/_scss/base/extends/_base.scss",
+		"/Users/sean/Dropbox/sites/rc/app/assets/_scss/base/_utilities.scss",
+		"/Users/sean/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/sean/Dropbox/sites/rc/app/_layouts/default.html",
+		"/Users/sean/Dropbox/sites/rc/app/index.html",
+		"/Users/sean/Dropbox/sites/rc/Gemfile",
+		"/Users/sean/Desktop/jquery_thumbnail_scroller/jquery.thumbnailScroller.js",
+		"/Users/sean/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/sean/Dropbox/Sites/article-shopify/article-15-5525005/assets/style.css.liquid",
+		"/Users/sean/Dropbox/Public/jquery.hammer.js",
+		"/Users/sean/Dropbox/sites/linkage/.gitignore",
+		"/Users/sean/Dropbox/Sites/linkage/app/views/login.html",
+		"/Users/sean/Dropbox/Sites/linkage/app/scripts/app.js",
+		"/Users/sean/Dropbox/Sites/linkage/app/views/posts.html",
+		"/Users/sean/Dropbox/Sites/linkage/app/scripts/filters/reverse.js",
+		"/Users/sean/Dropbox/Sites/linkage/app/scripts/filters/nospace.js",
+		"/Users/sean/Dropbox/Sites/linkage/app/scripts/controllers/posts.js",
+		"/Users/sean/Dropbox/Sites/linkage/app/scripts/services/post.js",
+		"/Users/sean/Dropbox/Sites/linkage/app/index.html",
+		"/Users/sean/Dropbox/Sites/linkage/app/views/profile.html",
+		"/Users/sean/Dropbox/Sites/linkage/app/views/register.html",
+		"/Users/sean/Dropbox/Sites/linkage/app/scripts/controllers/auth.js",
+		"/Users/sean/Dropbox/Sites/linkage/app/scripts/directives/checkusername.js",
+		"/Users/sean/Dropbox/Sites/linkage/app/scripts/controllers/profile.js",
+		"/Users/sean/Dropbox/Sites/linkage/app/scripts/controllers/nav.js",
+		"/Users/sean/Dropbox/Sites/linkage/app/styles/main.scss",
+		"/Users/sean/Dropbox/Sites/linkage/app/scripts/filters/url.js",
+		"/Users/sean/Dropbox/Sites/linkage/app/views/showpost.html",
+		"/Users/sean/Dropbox/Sites/linkage/app/views/nav.html",
+		"/Users/sean/Dropbox/Sites/linkage/app/scripts/services/user.js",
+		"/Users/sean/Dropbox/Sites/linkage/app/scripts/controllers/postview.js",
+		"/Users/sean/Dropbox/Sites/linkage/app/scripts/services/auth.js",
+		"/Users/sean/Dropbox/Sites/linkage/app/scripts/services/posts.js",
+		"/Users/sean/Dropbox/Sites/linkage/app/styles/app.scss",
+		"/Users/sean/Dropbox/Sites/linkage/huh.html",
+		"/Users/sean/Dropbox/Sites/linkage/.tmp/styles/main.css",
+		"/Users/sean/Dropbox/Sites/linkage/.jshintrc",
+		"/Users/sean/Dropbox/Sites/linkage/app/scripts/controllers/main.js",
+		"/Users/sean/Dropbox/Sites/linkage/app/views/main.html",
+		"/Users/sean/Dropbox/Sites/learn-angular/controllers.html",
+		"/Users/sean/Dropbox/Sites/learn-angular/assets/main.js",
+		"/Users/sean/Dropbox/sites/learn-angular/binding.html",
+		"/Users/sean/Desktop/angular.min.js",
+		"/Users/sean/Dropbox/Sites/bypost/.rvmrc",
+		"/Users/sean/Dropbox/Sites/bypost/config.ru",
+		"/Users/sean/Dropbox/Sites/package.json",
+		"/Users/sean/Dropbox/Sites/article-shopify/article-15-5525005/config/settings.html",
+		"/Users/sean/Dropbox/Sites/article-shopify/article-15-5525005/templates/index.liquid",
+		"/Users/sean/Dropbox/Sites/article-shopify/article-15-5525005/layout/theme.liquid",
+		"/Users/sean/Dropbox/Sites/article-shopify/article-15-5525005/assets/a5131862.main.css",
+		"/Users/sean/Desktop/socket-studios.js",
+		"/Users/sean/Dropbox/Sites/post/.gitignore",
+		"/Users/sean/Dropbox/Sites/bg/app/_includes/google-analytics.html",
+		"/Users/sean/Dropbox/Sites/bg-holding/index.html",
+		"/Users/sean/Dropbox/Sites/bg/app/assets/_scss/component/_nav.scss",
+		"/Users/sean/Dropbox/Sites/bg/app/assets/_scss/base/_variables.scss",
+		"/Users/sean/Dropbox/Sites/bg/app/assets/_scss/base/_application.scss",
+		"/Users/sean/Dropbox/Sites/bg/app/assets/_scss/component/_subnav.scss",
+		"/Users/sean/Dropbox/Sites/bg/app/assets/_scss/component/_slider.scss",
+		"/Users/sean/Dropbox/Sites/bg/app/_layouts/default.html",
+		"/Users/sean/Dropbox/Sites/bg/app/_includes/subnav.html",
+		"/Users/sean/Dropbox/Sites/bg/app/index.html",
+		"/Users/sean/Dropbox/Sites/bg/app/_includes/about.html",
+		"/Users/sean/Dropbox/Sites/bg/app/assets/_scss/component/_about.scss",
+		"/Users/sean/Dropbox/Sites/bg/app/assets/_scss/page/_notebook.scss",
+		"/Users/sean/Dropbox/Sites/bg/app/notebook.html",
+		"/Users/sean/Dropbox/Sites/bg/app/product.html",
+		"/Users/sean/Dropbox/Sites/bg/app/assets/_scss/component/_logo.scss",
+		"/Users/sean/Dropbox/Sites/bg/app/shop.html",
+		"/Users/sean/Dropbox/Sites/bg/app/_includes/scripts.html",
+		"/Users/sean/Dropbox/Sites/bg/app/_includes/styles.html",
+		"/Users/sean/Dropbox/Sites/bg/app/assets/js/app.js",
+		"/Users/sean/Dropbox/Sites/learn-playbook/.gitignore",
+		"/Users/sean/Dropbox/Sites/learn-playbook/app/about.html",
+		"/Users/sean/Dropbox/Sites/learn-playbook/app/_layouts/default.html",
+		"/Users/sean/Dropbox/Sites/learn-playbook/app/_includes/head.html"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"group",
+			"modal",
+			"Id",
+			"r",
+			"comment",
+			"class=\"form-control\"",
+			"255",
+			"data.",
+			"message",
+			"1",
+			"/*! normalize.css v2.1.3 | MIT License | git.io/normalize */article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, section, summary {\n    display: block;\n}\naudio, canvas, video {\n    display: inline-block;\n}\naudio:not([controls]) {\n    display: none;\n    height: 0;\n}\n[hidden], template {\n    display: none;\n}\nhtml {\n    font-family: sans-serif;\n    -ms-text-size-adjust: 100%;\n    -webkit-text-size-adjust: 100%}\nbody {\n    margin: 0;\n}\na {\n    background: transparent;\n}\na:focus {\n    outline: thin dotted;\n}\na:active, a:hover {\n    outline: 0;\n}\nh1 {\n    font-size: 2em;\n    margin: .67em 0;\n}\nabbr[title] {\n    border-bottom: 1px dotted;\n}\nb, strong {\n    font-weight: 700;\n}\ndfn {\n    font-style: italic;\n}\nhr {\n    -moz-box-sizing: content-box;\n    box-sizing: content-box;\n    height: 0;\n}\nmark {\n    background: #ff0;\n    color: #000;\n}\ncode, kbd, pre, samp {\n    font-family: monospace, serif;\n    font-size: 1em;\n}\npre {\n    white-space: pre-wrap;\n}\nq {\n    quotes: \"\\201C\" \"\\201D\" \"\\2018\" \"\\2019\"}\nsmall {\n    font-size: 80%}\nsub, sup {\n    font-size: 75%;\n    line-height: 0;\n    position: relative;\n    vertical-align: baseline;\n}\nsup {\n    top: -.5em;\n}\nsub {\n    bottom: -.25em;\n}\nimg {\n    border: 0;\n}\nsvg:not(:root) {\n    overflow: hidden;\n}\nfigure {\n    margin: 0;\n}\nfieldset {\n    border: 1px solid silver;\n    margin: 0 2px;\n    padding: .35em .625em .75em;\n}\nlegend {\n    border: 0;\n    padding: 0;\n}\nbutton, input, select, textarea {\n    font-family: inherit;\n    font-size: 100%;\n    margin: 0;\n}\nbutton, input {\n    line-height: normal;\n}\nbutton, select {\n    text-transform: none;\n}\nbutton, html input[type=button], input[type=reset], input[type=submit] {\n    -webkit-appearance: button;\n    cursor: pointer;\n}\nbutton[disabled], html input[disabled] {\n    cursor: default;\n}\ninput[type=checkbox], input[type=radio] {\n    box-sizing: border-box;\n    padding: 0;\n}\ninput[type=search] {\n    -webkit-appearance: textfield;\n    -moz-box-sizing: content-box;\n    -webkit-box-sizing: content-box;\n    box-sizing: content-box;\n}\ninput[type=search]::-webkit-search-cancel-button, input[type=search]::-webkit-search-decoration {\n    -webkit-appearance: none;\n}\nbutton::-moz-focus-inner, input::-moz-focus-inner {\n    border: 0;\n    padding: 0;\n}\ntextarea {\n    overflow: auto;\n    vertical-align: top;\n}\ntable {\n    border-collapse: collapse;\n    border-spacing: 0;\n}\n*, :before, :after {\n    -moz-box-sizing: border-box;\n    box-sizing: border-box;\n    -webkit-font-smoothing: antialiased;\n}\n.browsehappy {\n    margin: .2em 0;\n    background: #ccc;\n    color: #000;\n    padding: .4em 0;\n}\na {\n    color: #111;\n    text-decoration: none;\n}\nli {\n    list-style-type: none;\n}\nh1, h2, h3, h4, h5, p, ul, li, div {\n    margin: 0;\n    padding: 0;\n}\nh1, h2, h3, h4, h5 {\n    font-weight: 400;\n    -webkit-font-smoothing: antialiased;\n}\n::-moz-selection {\n    background-color: rgba(0, 168, 93, .2);\n    color: #000;\n}\n::selection {\n    background-color: rgba(0, 168, 93, .2);\n    color: #000;\n}\nbody {\n    width: 100%;\n    font: 1.1em/1.6em ArnhemPro-Normal, Times, serif;\n}\nheader {\n    padding: 40px;\n    position: absolute;\n    z-index: 9999;\n    width: 100%;\n    text-align: center;\n    margin: 0 auto;\n}\nh1#logo {\n    width: 160px;\n    height: 50px;\n    margin: 0 auto;\n    display: block;\n}\n#nav {\n    margin-top: 20px;\n    -webkit-transition: all ease .3s;\n}\n#nav li {\n    display: inline-block;\n    padding: 5px;\n}\n#nav li a.heading {\n    color: {{ settings.homeslide1colour }};\n    -webkit-transition: all ease .3s;\n}\n.details #nav li a.heading, .products #nav li a.heading, .single #nav li a.heading {\n    color:#333;  \n}\n.story #nav li a.heading {\n	color: {{ settings.aboutslide1colour }};\n}\n#nav li a.active {\n    text-decoration: underline;\n}\n#nav li:hover {\n    text-decoration: underline;\n}\n#nav #slidecount li:last-child {\n    padding: 0;\n}\n#nav #cart {\n    position: fixed;\n    display: block;\n    right: 15px;\n    top: 15px;\n    width: 80px;\n    height: 80px;\n    outline: 0;\n}\n#nav span.arrow {\n    display: block;\n    margin: -5px 0 0 75px;\n    width: 0;\n    height: 0;\n    border-left: 5px solid transparent;\n    border-right: 5px solid transparent;\n    border-bottom: 5px solid #fff;\n}\n#products, #connect {\n    position: absolute;\n    background: transparent;\n    margin-left: -45px;\n    display: none;\n    opacity: 0;\n    box-shadow: 0 0 5px 0 rgba(0, 168, 93, .4);\n    font: .9em/1.1em Hermes-Regular, Arial, sans-serif;\n    -webkit-transition: opacity ease .3s;\n}\n#products li, #connect li {\n    display: list-item;\n    padding: 10px 30px 12px;\n    background: #fff;\n}\n#products li a, #connect li a {\n    color: #000;\n}\n#products li:hover, #connect li:hover {\n    background: rgba(255, 255, 255, .85);\n}\n#nav li:hover>ul {\n    display: block;\n    opacity: 1;\n    -webkit-transition: opacity ease .3s;\n}\n#slides {\n    width: 100%}\n.swipe {\n    overflow: hidden;\n    visibility: hidden;\n    position: relative;\n}\n.swipe-wrap {\n    overflow: hidden;\n    position: relative;\n}\n.swipe-wrap>div {\n    float: left;\n    width: 100%;\n    position: relative;\n}\n.swipe-wrap>div img {\n    width: 100%;\n    max-width: 100%;\n    height: auto;\n}\n#slidernav {\n    top: 0;\n    position: absolute;\n    width: 100%}\n#slidernav a#prev, #slidernav a#next {\n    position: absolute;\n    color: #fff;\n    display: block;\n    width: 40px;\n    height: 35px;\n}\n#slidernav a#prev {\n    left: 50px;\n}\n#slidernav a#next {\n    right: 50px;\n}\na#more {\n    position: absolute;\n    display: block;\n    text-align: center;\n    padding: 10px;\n    left: 50%;\n    margin: -40px 0 0 -40px;\n    background: #fff;\n    letter-spacing: .05em;\n    width: 80px;\n    text-transform: uppercase;\n    color: #00a85d;\n    font: .8em/1em Hermes-Regular, Arial, sans-serif;\n    border-top-left-radius: 8px;\n    border-top-right-radius: 8px;\n    z-index: 9999;\n}\n#slidecount {\n    position: absolute;\n    display: block;\n    text-align: center;\n    bottom: 200px;\n    width: 100%;\n    z-index: 8888;\n}\n#slidecount li {\n    color: #00a85d;\n    display: inline-block;\n    margin: 3px;\n    text-indent: -9999px;\n    width: 9px;\n    height: 9px;\n    border: 2px solid #e6e6e6;\n    -ms-border-radius: 4px;\n    -o-border-radius: 4px;\n    border-radius: 4px;\n}\n#slidecount li.on {\n    background: #e6e6e6;\n}\n#storytitle {\n    position: absolute;\n    display: block;\n    left: 50%;\n    margin-left: -125px;\n}\n#storytitle h1 {\n    position: absolute;\n    color: #00a85d;\n    text-align: center;\n    letter-spacing: .05em;\n    text-transform: uppercase;\n    width: 140px;\n    font: 1.4em/1.1em Hermes-Regular, Arial, sans-serif;\n    left: 50%;\n    margin: -125px 0 0 -70px;\n}\n#items {\n    width: 90%;\n    margin: 0 auto;\n    padding: 75px 0;\n    text-align: center;\n    max-width: 1100px;\n}\n#items h2 {\n    text-align: center;\n    margin-bottom: 75px;\n    color: #00a85d;\n    font: 1.5em/1em Hermes-Regular, Arial, sans-serif;\n}\n#items .row {\n    word-spacing: -.25em;\n    letter-spacing: -.25em;\n}\n#items .product {\n    position: relative;\n    width: 25%;\n    padding: 20px;\n    display: inline-block;\n    word-spacing: normal;\n    letter-spacing: normal;\n    vertical-align: top;\n    -webkit-transition: all ease;\n    -webkit-transition-delay: .2s;\n    transition: all ease .2s;\n}\n#items .product .placement {\n    position: relative;\n    -webkit-transition: all ease;\n    -webkit-transition-delay: .2s;\n    transition: all ease .2s;\n}\n#items .product .overlay {\n    display: block;\n    opacity: 0;\n    position: absolute;\n    left: 50%;\n    top: 50%;\n    width: 150px;\n    height: 150px;\n    margin: -75px 0 0 -75px;\n    -webkit-transition: all ease;\n    -webkit-transition-delay: .2s;\n    transition: all ease .2s;\n}\n#items .product .overlay .eye {\n    position: relative;\n    top: 0;\n    left: 0;\n    width: 65px;\n    height: 65px;\n    display: block;\n    z-index: 9999;\n    text-indent: -9999px;\n    background: transparent url(eye.png) center center no-repeat;\n    background-image: url(eye.svg), none;\n    border-radius: 30px / 30px;\n}\n#items .product .overlay .eye:hover {\n    background-color: #fff;\n}\n#items .product .overlay .eye:before {\n    -webkit-transform: rotate(180deg);\n}\n#items .product .overlay .slash {\n    position: absolute;\n    top: 0;\n    left: 0;\n    width: 150px;\n    height: 150px;\n    display: block;\n    z-index: 8888;\n    text-indent: -9999px;\n    background-image: url(slash.png);\n    background-image: url(slash.svg), none;\n}\n#items .product .overlay .cart {\n    outline: none;\n    position: absolute;\n    bottom: 0;\n    right: 0;\n    width: 65px;\n    height: 65px;\n    display: block;\n    z-index: 9999;\n    text-indent: -9999px;\n    background: transparent url(cart.png) center center no-repeat;\n    background-image: url(cart.svg), none;\n    border-radius: 30px / 30px;\n    border: none;\n}\n#items .product .overlay .cart:focus {\n    outline: none;\n    opacity: 0.7;\n}\n#items .product .overlay .cart:hover {\n    background-color: #fff;\n}\n#items .product .placement img {\n    position: relative;\n    max-width: 100%;\n    display: block;\n    margin: 0 auto;\n    z-index: 8888;\n    -webkit-transition: all ease;\n    -webkit-transition-delay: .2s;\n    transition: all ease .2s;\n}\n#items .product li {\n    color: #00a85d;\n    font: 1.1em/1.4em ArnhemPro-Normal, Times, serif;\n    -webkit-font-smoothing: antialiased;\n}\n#items .product li:first-child {\n    margin-top: 15px;\n}\n#items .product li.price {\n    color: #000;\n}\n#items .product:hover .placement img {\n    opacity: .2;\n    z-index: 0;\n}\n#items .product:hover .overlay {\n    opacity: 1;\n    z-index: 9999;\n}\n#items ul li {\n    text-align: center;\n}\n#items:after {\n    clear: both;\n}\n#ourshop {\n    width: 90%;\n    margin: 0 auto;\n    padding: 75px 0;\n    text-align: center;\n    max-width: 1100px;\n}\n#ourshop h2 {\n    text-align: center;\n    margin-bottom: 75px;\n    color: #00a85d;\n    font: 1.5em/1em Hermes-Regular, Arial, sans-serif;\n}\n#ourshop h3 {\n    padding-right: 15%;\n    margin-bottom: 50px;\n    font: 1.3em/1.3em ArnhemPro-Normal, Times, serif;\n}\n#ourshop .row {\n    word-spacing: -.5em;\n    letter-spacing: -.5em;\n}\n#ourshop ul {\n    width: 40%;\n    float: left;\n    font-size: .9em;\n    line-height: 1.4em;\n}\n#ourshop div>div {\n    width: 50%;\n    display: inline-block;\n    word-spacing: normal;\n    letter-spacing: normal;\n    vertical-align: top;\n}\n#ourshop div>div img {\n    max-width: 100%}\n#ourshop ul>li a {\n    text-decoration: underline;\n}\n#ourshop ul>li:first-child {\n    text-transform: uppercase;\n    text-decoration: underline;\n    margin-bottom: 10px;\n}\n#ourshop ul:last-child {\n    padding-left: 10px;\n}\n#ourshop>* {\n    text-align: left;\n}\n#story {\n    width: 90%;\n    margin: 0 auto;\n    padding: 40px 0;\n    max-width: 1100px;\n}\n#story .row {\n    word-spacing: -.3em;\n    letter-spacing: -.3em;\n}\n#story div:first-child {\n    width: 32.5%;\n    padding: 20px;\n    display: inline-block;\n    word-spacing: normal;\n    letter-spacing: normal;\n    vertical-align: top;\n}\n#story div:first-child h2 {\n    font: 1.2em/1em Hermes-Regular, Arial, sans-serif;\n}\n#story div {\n    width: 32.5%;\n    padding: 20px;\n    display: inline-block;\n    word-spacing: normal;\n    letter-spacing: normal;\n    vertical-align: top;\n}\n#story div p {\n    margin-bottom: 1.5em;\n}\n.products #items, .single #items {\n    padding-top: 200px;\n}\n.products #items h2, .single #items h2 {\n    margin-bottom: 50px;\n    color: #333;\n}\n.products #items .row, .single #items .row {\n    word-spacing: -.32em;\n    letter-spacing: -.32em;\n}\n.products #items .product, .single #items .product {\n    position: relative;\n    width: 32.5%;\n    padding: 20px;\n    display: inline-block;\n    word-spacing: normal;\n    letter-spacing: normal;\n    vertical-align: top;\n    -webkit-transition: all ease;\n    -webkit-transition-delay: .2s;\n    transition: all ease .2s;\n}\n.single #items.row {\n    word-spacing: -.4em;\n    letter-spacing: -.4em;\n}\n.single #slides {\n    width: 55%;\n    display: inline-block;\n    word-spacing: normal;\n    letter-spacing: normal;\n    vertical-align: top;\n}\n.single .info {\n    width: 45%;\n    display: inline-block;\n    word-spacing: normal;\n    letter-spacing: normal;\n    vertical-align: top;\n    padding: 0 0 0 60px;\n}\n.single .info h2 {\n    margin-bottom: 20px!important;\n}\n.single .info h3 {\n    font-family: ArnhemPro-Normal, Times, serif;\n    margin-bottom: 30px;\n    color: #00a85d;\n}\n.single .info p {\n    padding-bottom: 20px;\n}\n.single .info p span {\n    color: #00a85d;\n}\n.single .info p.price {\n    color: #00a85d;\n    font-family: Hermes-Regular, Arial, sans-serif;\n    margin-bottom: 15px;\n}\n.single .info .buyme {\n    outline: none;\n    width: 150px;\n    border-bottom: 2px solid #007541;\n    margin: 0 auto;\n    background-color: #00a85d;\n    display: block;\n    padding: 10px;\n    color: #fff;\n    font-family: Hermes-Regular, Arial, sans-serif;\n    margin-bottom: 20px;\n    border-left: none;\n    border-top: none;\n    border-right: none;\n}\n.single .info .buyme:hover {\n    background-color: #095;\n}\n.single .info .buyme:active {\n    -webkit-transform: translate(0px, 2px);\n    transform: translate(0px, 2px);\n    border-bottom: 0;\n    margin-bottom: 22px;\n}\n.single .info a {\n    display: block;\n    color: #00a85d;\n    font-family: Hermes-Regular, Arial, sans-serif;\n}\n.single #slidernav, .single #slidecount {\n    position: relative;\n}\n.single #slidernav a#prev {\n    left: 20px;\n}\n.single #slidernav a#next {\n    right: 20px;\n}\n#map {\n    width: 100%;\n    height: 100%;\n    padding: 0;\n    display: block;\n    padding-top: 180px;\n}\n#map .row {\n    width: 90%;\n    height: 100%;\n    margin: 0 auto;\n    padding: 75px 0;\n    text-align: center;\n    max-width: 1100px;\n}\n#map #map-canvas {\n    margin: 0;\n    padding: 0;\n    height: 600px;\n}\n#map #map-canvas #content {\n    padding: 20px;\n}\n#map #map-canvas #content h1 {\n    margin-bottom: 15px;\n    font-family: Hermes-Regular, Arial, sans-serif;\n    font-size: 21px;\n}\n#map #map-canvas .map-left {\n    float: left;\n    width: 45%;\n    padding-bottom: 20px;\n    font: 1.1em/1.6em ArnhemPro-Normal, Times, serif;\n}\n#map #map-canvas .map-left span {\n    text-decoration: underline;\n    text-transform: uppercase;\n    font: .9em/1.6em ArnhemPro-Normal, Times, serif;\n}\n#map #map-canvas .map-right {\n    float: right;\n    width: 50%;\n    font: 1.1em/1.6em ArnhemPro-Normal, Times, serif;\n    margin-right: -15px;\n}\n#map #map-canvas .map-right span {\n    text-decoration: underline;\n    text-transform: uppercase;\n    font: .9em/1.6em ArnhemPro-Normal, Times, serif;\n}\n.details #ourshop {\n    display: none;\n    padding-top: 180px;\n}\nfooter {\n    width: 100%;\n    padding: 40px 0;\n    background: #f2f2f2;\n    display: block;\n}\nfooter .row {\n    width: 90%;\n    margin: 0 auto;\n    word-spacing: -.5em;\n    max-width: 1100px;\n}\nfooter .row p {\n    font: .8em/1em Hermes-Regular, Arial, sans-serif;\n    margin: -55px 0 10px 90px;\n}\nfooter .row span {\n    font: .7em/1em ArnhemPro-Normal, Times, serif;\n    margin-left: 90px;\n}\nfooter div>div {\n    width: 50%;\n    display: inline-block;\n    word-spacing: normal;\n    vertical-align: top;\n}\nfooter #footer-nav {\n    word-spacing: -.3em;\n    letter-spacing: -.3em;\n}\nfooter #footer-nav ul {\n    width: 33%;\n    display: inline-block;\n    word-spacing: normal;\n    letter-spacing: normal;\n    vertical-align: top;\n}\nfooter #footer-nav a {\n    color: #333;\n    -webkit-transition: all ease .2s;\n}\nfooter #footer-nav a:hover {\n    color: #00a85d;\n}\n\n#page {  padding: 188px 20% 20px 20%; }\n#page strong { font: 1em/1em Hermes-Regular, Arial, sans-serif; color:#00a85d; }\n#page div { color: #333; font-size: 0.95em; }\n#page h1 { text-align: center; margin-bottom: 75px; color: #00a85d; font: 1.5em/1em Hermes-Regular, Arial, sans-serif; }\n\n#items table { width: 100%; word-spacing: 0px; letter-spacing: 0px; text-align: left;  }\n\n#items table thead { font: .7em/1.1em Hermes-Regular, Arial, sans-serif; color:#333; padding: 20px 0; text-transform: uppercase; margin-bottom: 30px; border-bottom: 1px solid #e6e6e6; }\n#items table td, #items table tr th { padding: 20px 0; }\n#items table td input[type=number].quantity { width: 70px; background: #e6e6e6; border: none; padding: 5px; font: .8em/1.1em Hermes-Regular, Arial, sans-serif; text-align: center; }\ninput[type=number].quantity:focus { outline: none; color:#00A85D; }\ninput[type=number]::-webkit-inner-spin-button { -webkit-appearance: none; cursor:pointer; display:block; width:10px; height:10px; right: 0px; padding: 10px 7px 7px 5px; color: #fff; background-color:#00A85D; text-align:left; position:relative; }\ninput[type=number]::-webkit-inner-spin-button:before,\ninput[type=number]::-webkit-inner-spin-button:after { content: \"^\"; font-size: 20px; position:absolute; font-family:monospace; line-height:1.1em; }\ninput[type=number]::-webkit-inner-spin-button:before { top:0px; }\ninput[type=number]::-webkit-inner-spin-button:after { bottom:0px; -webkit-transform: rotate(180deg); }\n\n.products #items .checkout, .products #items .subtotal { word-spacing: 0px; letter-spacing: 0px; }\n.products #items .subtotal { padding-left: 58%; }\n.products #items .subtotal div { display: inline-block; width:100%; background: #e6e6e6; padding: 25px 20px 25px; }\ntable a.remove { border-radius:15px; display:block; width:30px; height:30px; background:#e6e6e6; text-align:center; font-size:0.9em; line-height:2.2em; -webkit-transition: all ease .2s; -moz-transition: all ease .2s; transition: all ease .2s;}\ntable a.remove:hover { background:#ff0000; color:#fff; }\n\na.continue { display: block; text-align: center; margin: 20px 0 0 0; -webkit-transition: all ease .2s; -moz-transition: all ease .2s; transition: all ease .2s; }\na.continue:hover { color:#00A85D; }\ninput.update { display: inline-block; width:45%; text-align: center; background:white; color:#00A85D; padding: 10px; margin-right: 5%; border: none; -webkit-transition: all ease .2s; -moz-transition: all ease .2s; transition: all ease .2s; }\ninput.checkout { display: inline-block; width:45%; text-align: center; background:#00A85D; color:white; padding: 10px; border: none; -webkit-transition: all ease .2s; -moz-transition: all ease .2s; transition: all ease .2s;}\ninput.update:hover { background:#00A85D; color:white; }\ninput.checkout:hover { background:white; color:#00A85D; }\ntextarea.notes { width: 95%; border: none; min-height:140px; padding: 10px; outline: none; }\ntextarea.notes:focus, input.checkout:focus, input.update:focus { outline: none; opacity: .9; }\nfooter a.credit { -webkit-transition: all ease .2s; -moz-transition: all ease .2s; transition: all ease .2s; }\nfooter a.credit:hover { color:#00A85D; }\n\n#customer label {  padding: 10px; font: .8em/1.1em Hermes-Regular, Arial, sans-serif; text-transform: uppercase; color: #333; letter-spacing: 1px; }\ninput.large { width: 30%; border: none; background: #e6e6e6; padding: 10px; font-size: 1.1em; margin-bottom: 20px; }\ninput.large:focus { outline:none; background: #E1F7ED; }\n#forgot_password { color:#00A85D; margin-bottom: 20px; }\n.action_bottom { margin-bottom: 40px; }\n.btn { font: .8em/1.1em Hermes-Regular, Arial, sans-serif; text-transform: uppercase; letter-spacing: 1px; display: inline-block; width:30%; text-align: center; background:#00A85D; color:white; padding: 20px 10px; border: none; -webkit-transition: all ease .2s; -moz-transition: all ease .2s; transition: all ease .2s; }\n.btn:hover { background:#e6e6e6; color:#00A85D; }\n.btn:focus { outline:none; background:#008F4F; }\n#orders { min-height: 400px; margin: 30px 0; padding: 0 150px; }\n#customer_sidebar { display: inline-block; width: 30%; text-align: left; vertical-align: top; }\n#customer_orders { display: inline-block; width: 65%; text-align: center; vertical-align: middle; background: #f2f2f2; padding: 30px; }\n\n#admin_header { width: 90%; margin:0 auto; padding: 150px 0; }\n.customer_address { text-align: left; }\n.addresses input.large { width: 100%; }\n.addresses input.large:focus { background: #fff; }\n.addresses label {  padding: 10px; font: .8em/1.1em Hermes-Regular, Arial, sans-serif; text-transform: uppercase; color: #333; letter-spacing: 1px; }\n.addresses .btn { width: 100%; margin-top: 40px; }\n#address_tables { text-align: left; }\n.action_edit, .action_delete { display: inline-block; font: .8em/1.1em Hermes-Regular, Arial, sans-serif; text-transform: uppercase; color: #333; background: white; padding: 5px; -webkit-transition: all ease .2s; -moz-transition: all ease .2s; transition: all ease .2s; }\n.action_edit:hover, .action_delete:hover { background: #00A85D; }\n\n@media all and (max-width:768px) {\n    #items {\n    padding: 40px 0;\n}\n#items div.product {\n    width: 50%}\n.products #items div.product {\n    width: 50%}\n#ourshop {\n    padding: 40px 0;\n}\n#ourshop ul {\n    width: auto;\n    margin-bottom: 20px;\n}\n#ourshop h3 {\n    padding: 0 3em 0 0;\n    font-size: 1em;\n}\n#ourshop ul:last-child {\n    padding: 0;\n}\n#slidernav, #storytitle, #slidecount {\n    display: none;\n}\n#footer-nav { padding-left: 90px; margin-top: 20px; }\n#story div, #story div:first-child {\n    width: 100%}\n#story div p:last-child, #story div:first-child p:last-child {\n    margin-bottom: 0;\n}\nfooter div>div {\n    width: 100%}\n.single #items #slides {\n    width: 100%}\n.single #items .info {\n    width: 100%;\n    padding: 30px 70px;\n}\n.single #slidernav, .single #slidecount {\n    display: block;\n}\n.products #items .subtotal { padding-left: 20%; }\n#orders { padding: 0 50px; }\n#customer_sidebar, #customer_orders { width: 100% }\n}\n@media all and (max-width:480px) {\n    #slides {\n    padding-top: 200px;\n}\n#items {\n    padding: 40px 0;\n}\n#items h2 {\n    margin-bottom: 30px;\n}\n#items div.product {\n    width: 100%}\n.products #items div.product {\n    width: 100%}\n#ourshop {\n    padding: 0 0 40px;\n}\n#ourshop h2 {\n    margin-bottom: 30px;\n}\n#ourshop .row div {\n    width: 100%}\n#ourshop .row div:first-child {\n    padding: 20px;\n}\n#ourshop .row div h3 {\n    padding: 0;\n    font-size: 1em;\n}\nfooter div>div {\n    width: 100%}\na#more, #nav li.social {\n    display: none;\n}\nfooter #footer-nav { padding-left: 25px; }\nfooter #footer-nav ul { width: 50%; } \nfooter #footer-nav li { padding: 0; }\n.single #items .info {\n    width: 100%;\n    padding: 10px;\n}\n.single #slides {\n    padding-top: 0;\n}\n.single #slidernav a#prev {\n    left: 5px;\n}\n.single #slidernav a#next {\n    right: 5px;\n}\n.single #items {\n    padding-top: 180px;\n}\n.details #ourshop {\n    display: block;\n}\n#map {\n    display: none;\n}\n.products #items .subtotal { padding-left: 0; }\n\ndiv.row.checkout thead { display: none; }\ndiv.row.checkout tbody { padding: 30px; text-align: center; }\n#items div.row.checkout table tbody tr { padding: 30px 0; display: block; }\n#items div.row.checkout table tbody tr td { display: block; padding: 5px; }\ndiv.row.checkout tbody a.remove { margin: 0 auto; }\n#orders { padding: 0; }\n.hidden { display: none; }\n\n",
+			"media",
+			"page",
+			"footer-nav",
+			"#slidernav",
+			"media",
+			"Person",
+			"#",
+			"20",
+			"CCCCCC",
+			"f2f2f2",
+			"info",
+			"#",
+			"menu",
+			"shop",
+			"Shop",
+			"shop",
+			"push",
+			"m-nav",
+			"55",
+			" ",
+			"  ",
+			"\n",
+			"centreArrows()",
+			"centreArrows",
+			"prev",
+			"slidernav",
+			"save f"
+		],
+		"highlight": true,
+		"in_selection": true,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/sean/Dropbox/sites/rc/app/_layouts/default.html",
+					"settings":
+					{
+						"buffer_size": 1270,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								373,
+								373
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/sean/Dropbox/sites/rc/app/index.html",
+					"settings":
+					{
+						"buffer_size": 137,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "/Users/sean/Dropbox/sites/rc/app/assets/_scss/base/_variables.scss",
+					"settings":
+					{
+						"buffer_size": 1025,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/sean/Dropbox/sites/rc/app/assets/_scss/base/_grid-settings.scss",
+					"settings":
+					{
+						"buffer_size": 456,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/sean/Dropbox/sites/rc/app/assets/_scss/screen.scss",
+					"settings":
+					{
+						"buffer_size": 1065,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								943,
+								943
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/assets/_scss/component/_nav.scss",
+					"settings":
+					{
+						"buffer_size": 37,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12,
+								12
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.447212144031,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 239.0,
+	"status_bar_visible": true
+}

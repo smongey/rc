@@ -3,63 +3,99 @@
 	{
 		"selected_items":
 		[
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"f",
+				"fixed"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"bord",
+				"border-top"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"background",
+				"background-repeat"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"in",
+				"inline-block"
+			]
 		]
 	},
 	"buffers":
 	[
-		{
-			"file": "/Users/sean/Dropbox/sites/rc/app/assets/_scss/base/_variables.scss",
-			"settings":
-			{
-				"buffer_size": 1025,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/sean/Dropbox/sites/rc/app/_layouts/default.html",
-			"settings":
-			{
-				"buffer_size": 1270,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/sean/Dropbox/sites/rc/app/humans.txt",
-			"settings":
-			{
-				"buffer_size": 260,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/sean/Dropbox/sites/rc/app/index.html",
-			"settings":
-			{
-				"buffer_size": 137,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/sean/Dropbox/sites/rc/app/about.html",
-			"settings":
-			{
-				"buffer_size": 84,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 347.0,
+		"height": 135.0,
 		"selected_items":
 		[
+			[
+				"fake",
+				"Snippet: fakeimg"
+			],
 			[
 				"pack",
 				"Package Control: Install Package"
 			]
 		],
-		"width": 449.0
+		"width": 518.0
 	},
 	"console":
 	{
@@ -80,11 +116,28 @@
 	},
 	"file_history":
 	[
+		"/Users/sean/Dropbox/sites/rc/app/assets/_scss/base/_variables.scss",
+		"/Users/sean/Dropbox/sites/rc/app/assets/_scss/screen.scss",
+		"/Users/sean/Dropbox/sites/rc/app/assets/_scss/component/_nav.scss",
+		"/Users/sean/Dropbox/sites/rc/app/assets/_scss/base/_application.scss",
+		"/Users/sean/Dropbox/sites/rc/app/_layouts/default.html",
+		"/Users/sean/Dropbox/sites/rc/app/look.html",
+		"/Users/sean/Dropbox/sites/rc/app/single.html",
+		"/Users/sean/Dropbox/sites/rc/app/projects.html",
+		"/Users/sean/Dropbox/sites/rc/app/index.html",
+		"/Users/sean/Dropbox/sites/rc/app/about.html",
+		"/Users/sean/Dropbox/sites/rc/app/contact.html",
+		"/Users/sean/Dropbox/sites/rc/app/listen.html",
+		"/Users/sean/Dropbox/sites/rc/app/news.html",
+		"/Users/sean/Dropbox/sites/rc/app/_includes/styles.html",
+		"/Users/sean/Dropbox/Sites/rc/app/contact.html",
+		"/Users/sean/Dropbox/Sites/rc/app/rc.sublime-project",
+		"/Users/sean/Dropbox/sites/rc/app/rc.sublime-project",
 		"/Users/sean/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings"
 	],
 	"find":
 	{
-		"height": 0.0
+		"height": 38.0
 	},
 	"find_in_files":
 	{
@@ -98,6 +151,12 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"im",
+			"5",
+			"#",
+			"<img src=\"\" alt=\"\">",
+			".html",
+			"html"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -115,166 +174,19 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "/Users/sean/Dropbox/sites/rc/app/assets/_scss/base/_variables.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1025,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								644,
-								644
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/SCSS/SCSS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				}
 			]
 		},
 		{
-			"selected": 3,
 			"sheets":
 			[
-				{
-					"buffer": 1,
-					"file": "/Users/sean/Dropbox/sites/rc/app/_layouts/default.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1270,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/Users/sean/Dropbox/sites/rc/app/humans.txt",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 260,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/Users/sean/Dropbox/sites/rc/app/index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 137,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								29,
-								29
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "/Users/sean/Dropbox/sites/rc/app/about.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 84,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								67,
-								67
-							]
-						],
-						"settings":
-						{
-							"open_with_edit": true,
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 0.0
+		"height": 23.0
 	},
 	"input":
 	{
@@ -317,7 +229,7 @@
 	"project": "rc.sublime-project",
 	"replace":
 	{
-		"height": 0.0
+		"height": 42.0
 	},
 	"save_all_on_build": true,
 	"select_file":
