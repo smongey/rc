@@ -1,0 +1,271 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"f",
+				"fixed"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"bord",
+				"border-top"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"background",
+				"background-repeat"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"in",
+				"inline-block"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 135.0,
+		"selected_items":
+		[
+			[
+				"fake",
+				"Snippet: fakeimg"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 518.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/sean/Dropbox/sites/rc/app/assets/_scss/base/_variables.scss",
+		"/Users/sean/Dropbox/sites/rc/app/assets/_scss/screen.scss",
+		"/Users/sean/Dropbox/sites/rc/app/assets/_scss/component/_nav.scss",
+		"/Users/sean/Dropbox/sites/rc/app/assets/_scss/base/_application.scss",
+		"/Users/sean/Dropbox/sites/rc/app/_layouts/default.html",
+		"/Users/sean/Dropbox/sites/rc/app/look.html",
+		"/Users/sean/Dropbox/sites/rc/app/single.html",
+		"/Users/sean/Dropbox/sites/rc/app/projects.html",
+		"/Users/sean/Dropbox/sites/rc/app/index.html",
+		"/Users/sean/Dropbox/sites/rc/app/about.html",
+		"/Users/sean/Dropbox/sites/rc/app/contact.html",
+		"/Users/sean/Dropbox/sites/rc/app/listen.html",
+		"/Users/sean/Dropbox/sites/rc/app/news.html",
+		"/Users/sean/Dropbox/sites/rc/app/_includes/styles.html",
+		"/Users/sean/Dropbox/Sites/rc/app/contact.html",
+		"/Users/sean/Dropbox/Sites/rc/app/rc.sublime-project",
+		"/Users/sean/Dropbox/sites/rc/app/rc.sublime-project",
+		"/Users/sean/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"im",
+			"5",
+			"#",
+			"<img src=\"\" alt=\"\">",
+			".html",
+			"html"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.480791140825,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "rc.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 288.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
