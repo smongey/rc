@@ -2,7 +2,8 @@ var video = {
 	credits : $('#credits'),
 	link : $('a#toggle'),
 	isClosed : true,
-	toggle : function(){
+	toggle : function(event){
+		event.preventDefault();
 		if (this.isClosed) {
 			console.log('closed');
 			this.isClosed = false;
