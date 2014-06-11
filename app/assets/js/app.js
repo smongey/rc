@@ -39,7 +39,7 @@ $(function(){
 	video.link.on('click', video.toggle);
 	audio.link.on('click', audio.toggle);
 
-	$('audio,video').mediaelementplayer({
+	$('audio').mediaelementplayer({
 		features: ['playpause','progress']
 	});
 
