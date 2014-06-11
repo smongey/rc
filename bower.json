@@ -6,7 +6,8 @@
     "bourbon": "~v4.0.0-rc.1",
     "neat": "~1.6.0",
     "modernizr": "~2.7.1",
-    "jquery": "~2.0.3"
+    "jquery": "~2.0.3",
+    "mediaelement": "~2.14.2"
   },
   "devDependencies": {}
 }

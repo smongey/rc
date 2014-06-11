@@ -30,8 +30,6 @@
 	box-sizing: border-box;
 }
 
-@import url("//fnt.webink.com/wfs/webink.css/?project=F0021766-E526-40BC-87A0-6D09121D3B4D&fonts=506ACF7C-18D4-DE14-F3DA-624DC75F1A7A:f=Typewriter,3B191A94-6A54-296C-54EE-2BF84C7A049C:f=TypewriterLight");
-
 //Typewriter  &  TypewriterLight
 
 body {
@@ -148,13 +146,64 @@ body {
 			height:em(20);
 			margin-left: em(-25);
 			margin-top: em(8);
+			color: $red;
 		}
 		audio {
 			width: 100%;
 		}
-
+		h3.track {
+			font-size: 1em;
+		}
+		.mejs-container {
+			background: none;
+			padding: 0 0 0 0;
+		}
+		.mejs-controls .mejs-time-rail span {
+			border-radius: 0px !important;
+		}
+		.mejs-controls { background: $biscuit !important; }
+		.mejs-playpause-button { 
+			position: absolute; 
+			right: 0; 
+			margin-right: em(-40);
+			display: block;
+			width: em(30);
+			height: em(30);
+			border-radius: em(15);
+			background: $red;
+			button {
+				width: em(30);
+				height: em(15);
+				margin: 4px 0 0 8px;
+				background: none;
+				border: 6px solid white;
+				border-color: transparent transparent transparent white;
+				border-radius: 0px;
+			}
+		}
+		.mejs-time-total {
+			margin: 0;
+			border-radius: none;
+		}
+		.mejs-time-rail { 
+			margin-top: em(5);
+		}
+		.mejs-time-loaded { background: tint($red, 70%); border-radius: none !important; }
+		.mejs-time-current { background: $red; border-radius: none !important; }
+		.mejs-controls .mejs-time-rail .mejs-time-float, .mejs-controls .mejs-time-rail .mejs-time-float-current {
+			background: tint($red, 70%);
+			border: 0px;
+		}
+		.mejs-controls .mejs-time-rail .mejs-time-float-corner {
+			border-color: tint($red, 70%) transparent transparent transparent;
+		}
 		.credits {
-			display: none;
+			max-height: 0;
+			overflow: hidden;
+			@include transition(all ease .3s);
+			&.open {
+				max-height: 500px;
+			}
 		}
 
 	}
@@ -223,6 +272,8 @@ body {
 		font:em(14)/em(22) 'Helvetica-Neue', Helvetica, Arial, sans-serif;
 		font-weight: bold;
 		padding: em(20) 0 0 0;
+		position: absolute;
+		margin-top: 20px;
 		@include media($tablet) {
 			@include span-columns(12);
 		}
@@ -401,6 +452,8 @@ body {
 			font-size: em(15);
 			line-height: em(24);
 			margin-bottom: em(30);
+			padding-top: em(10);
+			border-top: 2px solid $biscuit;
 			a {
 				color: $red;
 			}
