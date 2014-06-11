@@ -30,9 +30,7 @@ var audio = {
 		}
 	}
 }
-
-
-
+ß
 $('#credits').hide();
 
 $(function(){
