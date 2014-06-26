@@ -36,7 +36,9 @@ nav {
 			color: black;
 			padding: em(2);
 			margin: 0 em(20);
-			font-family: 'Typewriter', monospaced;
+			font-family: 'American-Typewriter', monospaced;
+			font-size: em(15);
+			letter-spacing: 0.5px;
 			@include media($s-desktop) {
 				margin: 0 em(10);
 			}
@@ -45,7 +47,7 @@ nav {
 			}
 			&.active {
 				color: $red;
-				border-bottom: em(2) solid $red;
+				border-bottom: 1px solid $red;
 			}
 		}
 		@include media($tablet) {

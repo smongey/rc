@@ -30,8 +30,6 @@
 	box-sizing: border-box;
 }
 
-//Typewriter  &  TypewriterLight
-
 body {
 	background: $biscuit;
 	overflow-y: scroll;
@@ -39,8 +37,10 @@ body {
 
 #home {
 	@include outer-container;
+	overflow: hidden;
 	img { 
 		max-width: 100%;
+		margin-left: 20px;
 	}
 
 }
@@ -321,7 +321,8 @@ body {
 
 	.thanks {
 		@include span-columns(12);
-		
+		height: 200px;
+
 		div {
 			&:first-child {
 				text-align: right;
@@ -338,6 +339,10 @@ body {
 					text-align: center;
 				}
 			}
+			&:nth-child(2){
+				margin-right: 3%;
+			}
+			a { color: black; }
 			@include span-columns(3);
 			@include media($tablet) {
 				@include span-columns(4);
@@ -347,6 +352,7 @@ body {
 				@include span-columns(12);
 				text-align: center;
 			}
+
 		}
 
 		ul li {
@@ -442,6 +448,7 @@ body {
 		h2 {
 			text-align: center;
 			font-family: 'Garamond', Times, serif;
+			font-weight: normal;
 			font-style: italic;
 			font-size: em(26);
 			padding-bottom: em(20);
