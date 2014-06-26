@@ -210,6 +210,8 @@ body {
 
 	#speaker {
 		@include span-columns(2);
+		width: 20%;
+		margin-top: 30px;
 		@include media($phone) {
 			display: none;
 		}
@@ -217,6 +219,8 @@ body {
 
 	#volume {
 		@include span-columns(2);
+		width: 20%;
+		margin-top: 25%;
 		@include media($phone) {
 			display: none;
 		}	
@@ -229,7 +233,7 @@ body {
 		}
 		img {
 			@include span-columns(3);
-			margin-top: em(-50);
+			margin-top: em(-260);
 		}
 		@include media($phone) {
 			display: none;
